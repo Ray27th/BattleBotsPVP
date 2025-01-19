@@ -1,4 +1,4 @@
-# 🤖 ESP32 Battle Bot Extraordinaire! 
+# 🤖 ESP32 Battle Bots PvP! 
 
 Welcome to the most exciting DIY combat robot project you'll ever build! This isn't just any robot - it's a fully autonomous warrior with real-time vision, smart sensing, and a mighty battle hammer! 
 
